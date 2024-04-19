@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer , Java Developer and Ai enthusiast  from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skdevils&label=Profile%20views&color=0e75b6&style=flat" alt="priti275" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priti275&label=Profile%20views&color=0e75b6&style=flat" alt="priti275" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Fire_flame_15" target="blank"><img src="https://img.shields.io/twitter/follow/Fire_flame_15?logo=twitter&style=for-the-badge" alt="Fire_flame_15" /></a> </p>
 
